@@ -1,5 +1,5 @@
 
-# Boas vindas ao repositório do projeto All For One
+## Boas vindas ao repositório do projeto All For One
 
 Para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
