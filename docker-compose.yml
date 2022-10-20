@@ -29,7 +29,7 @@ services:
     # Configura as variáveis de ambiente dentro do container
     environment:
       MYSQL_USER: root
-      MYSQL_PASSWORD: password
+      MYSQL_PASSWORD: root
       HOSTNAME: db
 
   # Serviço que irá rodar o banco de dados
@@ -45,7 +45,7 @@ services:
       # Expõe a porta padrão do banco de dados
       - 3306:3306
     environment:
-      MYSQL_ROOT_PASSWORD: password
+      MYSQL_ROOT_PASSWORD: root
 
 # Lista de redes que os containeres irão utilizar
 networks:
